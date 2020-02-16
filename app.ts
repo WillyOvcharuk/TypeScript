@@ -1,0 +1,1 @@
+const mess: string = "Hello World";
